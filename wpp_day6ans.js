@@ -7,5 +7,5 @@ function isMulof3or7(num) {
     }
 }
 
-let result = isMulof3or7(21);
+const result = isMulof3or7(21);
 console.log(result);
